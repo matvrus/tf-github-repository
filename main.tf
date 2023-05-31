@@ -1,4 +1,3 @@
-
 module "gke_cluster" {
   source         = "github.com/matvrus/tf-google-gke-cluster"
   GOOGLE_REGION  = var.GOOGLE_REGION

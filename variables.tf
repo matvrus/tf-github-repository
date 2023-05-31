@@ -19,3 +19,4 @@ variable "GKE_NUM_NODES" {
   type        = number
   default     = 2  # Change to the desired number of nodes 1
   description = "GKE nodes number"
+}
